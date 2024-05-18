@@ -1,0 +1,20 @@
+h1 {
+    font-size: 22px;
+    font-family: georgia;            
+    text-align: center;
+    background-color: #FCAB10;
+    color: #F8333C;
+   }
+    h2 {
+    font-size: 35px;
+    text-align: center;
+    background-image: url(https://sotni.ru/wp-content/uploads/2023/08/krasivyi-fon-dlia-prezentatsii-219.webp);
+    background-size: 100%;
+    }
+    h3 {
+    font-size: 15px;
+    font-family: Gulim ; 
+    text-align: center;
+    background-color: #44AF69;
+    color: #270844 ;
+    }
